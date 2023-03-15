@@ -1,4 +1,4 @@
-    <nav class="flex justify-between">
+    <nav>
     <div class="flex">
     <button >
         <span class="text-white flex items-center ">
